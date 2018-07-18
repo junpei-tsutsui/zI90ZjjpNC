@@ -11,3 +11,5 @@ endif::[]
 はじまりはじまり
 
 WARNING: aiueo
+
+image::images/download.png[]
