@@ -1,4 +1,6 @@
 = タイトル1
+:icons: font
 
 はじまりはじまり
 
+WARNING: aiueo
