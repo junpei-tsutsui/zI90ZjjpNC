@@ -1,4 +1,3 @@
-= タイトル1
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
@@ -7,9 +6,11 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 :icons: font
+:toc:
+:numbered:
 
-はじまりはじまり
+include::cover.adoc[]
 
-WARNING: aiueo
+include::introduction.adoc[]
 
-image::images/download.png[]
+include::system-overview.adoc[]

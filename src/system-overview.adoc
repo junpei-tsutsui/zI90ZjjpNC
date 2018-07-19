@@ -1,0 +1,19 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+:icons: font
+:numbered:
+
+== 序
+
+=== 本文書の目的、および適用範囲
+
+はじまりはじまり
+
+WARNING: aiueo1234567
+
+image::images/download.png[]

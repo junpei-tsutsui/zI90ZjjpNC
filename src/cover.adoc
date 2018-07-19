@@ -1,0 +1,2 @@
+= ImageTranslator 外部仕様書
+
