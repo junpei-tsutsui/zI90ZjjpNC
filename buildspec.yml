@@ -13,7 +13,7 @@ phases:
     commands:
       - ls
       - pwd
-      - asciidoctor-pdf
+      - asciidoctor-pdf -d book --safe -D dist src/index.adoc
 #  post_build:
 #    commands:
 #artifacts:
