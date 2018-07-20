@@ -8,9 +8,11 @@ phases:
   install:
     commands:
       - gem install asciidoctor
-      - gem install asciidoctor-pdf
+      - gem install asciidoctor-pdf --pre
   build:
     commands:
+      - ls
+      - pwd
       - asciidoctor-pdf
 #  post_build:
 #    commands:
