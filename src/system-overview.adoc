@@ -8,7 +8,7 @@ endif::[]
 :icons: font
 :numbered:
 
-== 序
+== システム概要
 
 === 本文書の目的、および適用範囲
 
