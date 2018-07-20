@@ -16,10 +16,10 @@ phases:
       - asciidoctor-pdf -d book --safe -D dist src/index.adoc
 #  post_build:
 #    commands:
-#artifacts:
-#  files:
-#    - location
-#    - location
+artifacts:
+  type: zip
+  files:
+    - dist/index.pdf
 #  discard-paths: yes
 #  base-directory: location
 #cache:
